@@ -1,4 +1,4 @@
-baseURL = 'http://iss-namespaces.pages.dev/'
+baseURL = 'https://iss-namespaces.pages.dev/'
 languageCode = 'en-us'
 title = 'To Docker and Beyond!'
 theme = "reveal-hugo"
