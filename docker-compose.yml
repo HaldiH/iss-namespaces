@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  server:
+    image: klakegg/hugo:busybox
+    command: server
+    volumes:
+      - .:/src
+    ports:
+      - 1313:1313
+
+  build:
+    image: klakegg/hugo:busybox
+    user: 1000:1000
+    volumes:
+      - .:/src
