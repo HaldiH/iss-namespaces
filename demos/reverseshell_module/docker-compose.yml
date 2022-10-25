@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  awesome:
+    build: .
+    cap_add:
+      - CAP_SYS_MODULE
