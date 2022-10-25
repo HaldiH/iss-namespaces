@@ -5,3 +5,4 @@ services:
     build: .
     cap_add:
       - CAP_SYS_MODULE
+    network_mode: none
