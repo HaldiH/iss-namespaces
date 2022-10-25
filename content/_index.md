@@ -5,6 +5,8 @@ outputs = ["Reveal"]
 
 # To Docker and Beyond!
 
+by Malik Algelly and Hugo Haldi
+
 ---
 
 # Topics
