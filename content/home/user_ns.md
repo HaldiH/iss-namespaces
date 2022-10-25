@@ -32,4 +32,6 @@ weight = 30
 
 ![User namespace example](user_ns.svg)
 
+_Schema from [this conference by Michael Kerrisk](https://youtu.be/73nB9-HYbAI)_
+
 {{% /section %}}

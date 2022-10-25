@@ -89,6 +89,8 @@ thor
 
 ![PID Namespaces hierarchie](pid_namespaces.svg)
 
+_Schema from [this conference by Michael Kerrisk](https://youtu.be/0kJPa-1FuoI)_
+
 ---
 
 ### Demo

@@ -43,6 +43,8 @@ weight = 20
 
 ![IPvlan L2](ipvlan_l2_simple.png)
 
+_From the [Docker documentation](https://docs.docker.com/network/ipvlan/)_
+
 ---
 
 ### MACvlan
