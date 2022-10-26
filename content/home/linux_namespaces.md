@@ -153,4 +153,10 @@ ip netns exec loki ip link set eth0-l up
 ip netns exec loki ip address add 10.0.0.2/24 dev eth0-l
 ```
 
+---
+
+References:
+
+- [Conference of Jérôme Petazzoni at DockerCon 2015 Barcelona](https://youtu.be/sK5i-N34im8)
+
 {{% /section %}}
